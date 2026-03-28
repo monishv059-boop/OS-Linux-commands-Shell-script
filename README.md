@@ -960,8 +960,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-
-![Alt text](1.79.png)
+![Alt text](1.80.png)
  cat exread1.sh
 ```bash
 #!/bin/bash
@@ -973,7 +972,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
-
+![Alt text](1.80-1.png)
 
 $ ./exread1.sh 
  
@@ -994,10 +993,10 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
-
+![Alt text](1.82.png)
  
  ./funcex.sh 1 2
-
+![Alt text](1.81-1.png)
  
 cat argshift.sh
 ```bash
@@ -1010,7 +1009,8 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
-$ ./argshift.sh 1 2 3
+$ ./argshift.sh 1 
+![Alt text](1.83.png)2 3
  
  cat argshift1.sh
 ```bash
@@ -1028,7 +1028,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ ![Alt text](1.84.png)
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1041,7 +1042,7 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+ ![Alt text](1.85.png)
  
 cat > nc.awk
 ```bash
@@ -1072,7 +1073,9 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ ![Alt text](1.86.png)
+
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1099,7 +1102,7 @@ else
 fi
 ```
 ## OUTPUT 
-
+![Alt text](1.87.png)
 
 # RESULT:
 The Commands are executed successfully.

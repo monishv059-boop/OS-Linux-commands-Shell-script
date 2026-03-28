@@ -712,6 +712,7 @@ $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
 ![Alt text](1.66.png)
+
 # using the case command
 cat >casecheck.sh 
 ```bash
@@ -818,7 +819,10 @@ echo "word:$test"
 done
 ```
 $ ./forin3.sh 
- 
+## output 
+
+![Alt text](1.72.png)
+
 cat forin1.sh 
 ```bash
 #!/bin/bash

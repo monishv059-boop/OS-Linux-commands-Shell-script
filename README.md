@@ -856,7 +856,7 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
-
+![Alt text](1.73.png)
 
 cat forctype.sh 
 ```bash
@@ -870,7 +870,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
-
+![Alt text](1.74.png)
 cat forctype1.sh 
 ```bash
 #!/bin/bash
@@ -883,7 +883,9 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
-
+![
+	
+![Alt text](1.75.png)
 cat fornested1.sh 
 ```bash
 #!/bin/bash
@@ -901,7 +903,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
-
+![Alt text](1.76.png)
  
 cat forbreak.sh 
 ```bash
@@ -918,6 +920,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+![Alt text](1.77.png)
 
 $ chmod 755 forbreak.sh
  
@@ -943,7 +946,7 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ ![Alt text](1.78.png)
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -958,7 +961,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
-
+![Alt text](1.79.png)
  cat exread1.sh
 ```bash
 #!/bin/bash
